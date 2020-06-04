@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "128417458040",
+    "firebase_url": "https://minhabibliotecaprojetofacul.firebaseio.com",
+    "project_id": "minhabibliotecaprojetofacul",
+    "storage_bucket": "minhabibliotecaprojetofacul.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128417458040:android:11de1c5bf14e46553d0a8d",
+        "android_client_info": {
+          "package_name": "br.com.projetointegrado.lojalivros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128417458040-9joailrb7kne1mnb8f7up1dctgamiro4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.projetointegrado.lojalivros",
+            "certificate_hash": "76dd369817f56caf6e47d26d7916b11151e703da"
+          }
+        },
+        {
+          "client_id": "128417458040-dp76d7pjqorr8697ecu2sjtmk3jbv12b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtMHKv4R1LlGZbCFokEhyZ0LBtZgYwyvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128417458040-dp76d7pjqorr8697ecu2sjtmk3jbv12b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
