@@ -41,6 +41,7 @@ public class CadastroActivity extends AppCompatActivity {
                         null
                 );
 
+                //Strings que puxam os dados das caixas de texto
                 String nomeT = nome.getText().toString();
                 String emailT = email.getText().toString();
                 String senhaT = senha.getText().toString();
